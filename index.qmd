@@ -1,11 +1,14 @@
 ---
-title: "My_Website"
+title: "Home"
 ---
 
-This is a Quarto website.
+Hi, I’m **Dulitha Perera** — a Master’s student in Business Analytics with a background in management.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### What I’m looking for
+Graduate / entry-level roles in operations, procurement, analytics, supply chain or business support.
 
-```{r}
-1 + 1
-```
+### Skills
+- Data: R, tidyverse, data cleaning, visualisation
+- Analytics: modelling, forecasting, reporting
+- Tools: RStudio, Quarto, Git/GitHub
+- Business: management, operations
