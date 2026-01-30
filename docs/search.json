@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My_Website",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m currently curating my best projects for this page.\nIn the meantime, you can find my work here: - GitHub: https://github.com/dulith4 - LinkedIn: (add link here)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "projects.html#coming-soon",
+    "href": "projects.html#coming-soon",
+    "title": "Projects",
+    "section": "",
+    "text": "I’m currently curating my best projects for this page.\nIn the meantime, you can find my work here: - GitHub: https://github.com/dulith4 - LinkedIn: (add link here)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Dulitha Perera — a Master’s student in Business Analytics with a background in management.\n\nWhat I’m looking for\nGraduate / entry-level roles in operations, procurement, analytics, supply chain or business support.\n\n\nSkills\n\nData: R, tidyverse, data cleaning, visualisation\nAnalytics: modelling, forecasting, reporting\nTools: RStudio, Quarto, Git/GitHub\nBusiness: management, operations"
   }
 ]
