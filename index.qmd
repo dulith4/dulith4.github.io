@@ -1,74 +1,171 @@
 ---
-title: "Majuwana Gamage Don Dulitha Perera"
+title: ""
 page-layout: full
 ---
 
-::: {.grid .align-items-center style="margin-top: 1rem;"}
+::: {.grid .align-items-center style="margin-top: 1.75rem; margin-bottom: 1.25rem;"}
 
-::: {.g-col-12 .g-col-md-8}
+::: {.g-col-12 .g-col-md-7}
 # Dulitha Perera
 
-**Early-career business professional** with hands-on experience in **operations, logistics coordination, and accounting support**, currently completing a **Master of Business Analytics at Monash University**.
+::: {.lead}
+Early-career business professional with hands-on experience in **operations, logistics coordination, and accounting support**, currently completing a **Master of Business Analytics at Monash University**.
+:::
 
 I’m seeking **graduate / entry-level opportunities** in **operations, logistics, supply chain support, procurement support, finance operations, and business coordination** — roles where I can contribute through strong teamwork, reliability, and a practical, get-things-done mindset.
-
-::: {.callout-note}
-**What you can expect from me:** dependable execution, strong time management, teamwork, and a genuine willingness to learn fast and improve continuously.
-:::
 
 [Email me](mailto:duli199982@gmail.com){.btn .btn-primary} &nbsp;
 [GitHub](https://github.com/dulith4){.btn .btn-outline-secondary}
 :::
 
-::: {.g-col-12 .g-col-md-4}
-![](img/headshot.jpg){fig-alt="Headshot photo" style="border-radius: 16px; width: 100%; max-width: 320px;"}
+::: {.g-col-12 .g-col-md-5}
+![](img/headshot.jpg){fig-alt="Headshot photo" style="border-radius: 18px; width: 100%; max-width: 340px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);"}
 :::
 
+:::
+
+---
+
+## Snapshot
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+::: {.card-body}
+### Focus
+Operations • Logistics • Supply chain support • Procurement support
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+::: {.card-body}
+### Strengths
+Teamwork • Time management • Reliable delivery • Continuous learning
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+::: {.card-body}
+### Tools
+R/RStudio • Quarto • Git/GitHub • Excel (basic)
+:::
+:::
+:::
+
+:::
+
+---
+
+## What you can expect from me
+
+::: {.callout-note}
+**Dependable execution** • Strong time management • Team-focused mindset • Committed to learning fast and improving continuously
 :::
 
 ---
 
 ## What I bring
 
-- **Operations support:** tracking schedules, monitoring output, coordinating deliveries  
-- **Finance operations basics:** invoices, reconciliation logs, payment cycles  
-- **Teamwork and communication:** comfortable working across functions and supporting shared goals  
-- **Continuous learning mindset:** committed, focused, and always improving through feedback
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Operations support
+- Tracking schedules and monitoring output  
+- Coordinating deliveries and day-to-day workflow  
+- Supporting teams to meet deadlines and quality requirements  
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Finance operations basics
+- Processing supplier invoices and supporting payment cycles  
+- Maintaining accounting records (receipts, reconciliation logs)  
+- Supporting accurate record-keeping and follow-ups  
+:::
+:::
+:::
+
+:::
 
 ---
 
-## Experience snapshot
+## Experience
 
+::: {.card}
+::: {.card-body}
 ### Account & Production Junior Executive (Trainee) — K.W.O Printing Needs (Pvt) Ltd
+
 - Processed supplier invoices and supported payment cycles  
 - Maintained accounting records (receipts, reconciliation logs)  
 - Monitored daily production schedules and supported timely output tracking  
 - Coordinated material deliveries and liaised with logistics vendors  
-- Worked with internal teams to improve coordination and workflow
+- Worked with internal teams to improve coordination and workflow  
+:::
+:::
 
 ---
 
 ## Education
 
+::: {.card}
+::: {.card-body}
 - **Master of Business Analytics** — Monash University (Feb 2024 – Present)  
 - **BSc Business Management (Upper Second Class)** — Canterbury Christchurch University (UK) (Sep 2020 – Sep 2021)  
-- **HND Business Management** — Saegis Campus (Oct 2018 – Mar 2020)
+- **HND Business Management** — Saegis Campus (Oct 2018 – Mar 2020)  
+:::
+:::
 
 ---
 
 ## Skills
 
-- **Tools:** R / RStudio (practical reporting & analysis), MS Word & PowerPoint, Excel (basic)  
-- **Business:** vendor coordination, inventory/operations support, production planning support  
-- **Professional:** teamwork, time management, commitment, communication
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Tools
+- R / RStudio (practical reporting & analysis)  
+- MS Word & PowerPoint  
+- Excel (basic)  
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Professional
+- Teamwork & communication  
+- Time management & commitment  
+- Reliable delivery under deadlines  
+:::
+:::
+:::
+
+:::
 
 ---
 
 ## Next steps
 
+::: {.card}
+::: {.card-body}
 - Visit **Projects** (coming soon) for curated work examples  
 - Download my **CV** (coming soon)  
 - Reach out if you’d like to chat about **operations / logistics / business support roles**
 
 **Email:** duli199982@gmail.com  
-**Location:** Melbourne (Clayton), Australia
+**Location:** Melbourne (Clayton), Australia  
+:::
+:::

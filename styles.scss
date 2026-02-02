@@ -1,0 +1,53 @@
+/*-- scss:defaults --*/
+/* Branding */
+$primary: #2563eb;     // main accent (blue)
+$body-color: #111827;  // text
+$body-bg: #ffffff;     // background
+
+/* Typography */
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+$headings-font-weight: 700;
+
+
+/*-- scss:rules --*/
+/* Page layout tweaks */
+.content {
+  max-width: 980px;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+.lead {
+  font-size: 1.125rem;
+  color: #374151;
+}
+
+/* Cards */
+.card {
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.06);
+}
+
+.card .card-body {
+  padding: 1.25rem 1.25rem;
+}
+
+/* Buttons */
+.btn {
+  border-radius: 999px;
+  padding: 0.6rem 1rem;
+  font-weight: 600;
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
