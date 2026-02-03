@@ -18,7 +18,7 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Here is my current CV. You can download it or view it directly on this page.\nDownload CV (PDF)"
   },
   {
     "objectID": "index.html",
@@ -96,5 +96,12 @@
     "title": "Projects",
     "section": "More links",
     "text": "More links\n\nGitHub: https://github.com/dulith4\n\nLinkedIn: (add link here)"
+  },
+  {
+    "objectID": "cv.html#view-cv",
+    "href": "cv.html#view-cv",
+    "title": "CV",
+    "section": "View CV",
+    "text": "View CV\n\n\n\n\n\n\n\n\nNote\n\n\n\nIf the PDF doesn’t load in your browser, please use the Download CV button above."
   }
 ]
