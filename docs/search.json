@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I’m currently curating my best projects for this page.\nIn the meantime, you can find my work here: - GitHub: https://github.com/dulith4 - LinkedIn: (add link here)"
+    "text": "Here are a few selected projects that show my work in data analysis, reproducible reporting, and practical problem solving."
   },
   {
     "objectID": "projects.html#coming-soon",
@@ -82,5 +82,19 @@
     "title": "Dulitha Perera",
     "section": "Experience",
     "text": "Experience\n\n\nAccount & Production Junior Executive (Trainee) — K.W.O Printing Needs (Pvt) Ltd\n\nProcessed supplier invoices and supported payment cycles\n\nMaintained accounting records (receipts, reconciliation logs)\n\nMonitored daily production schedules and supported timely output tracking\n\nCoordinated material deliveries and liaised with logistics vendors\n\nWorked with internal teams to improve coordination and workflow"
+  },
+  {
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
+    "title": "Projects",
+    "section": "Featured projects",
+    "text": "Featured projects\n\n\n\n\nFish Hydroacoustics Classification (ETC5543)\nA machine learning project to classify fish species (e.g., lake trout vs smallmouth bass) using wideband hydroacoustic frequency features, with a focus on reproducible pipelines and model evaluation.\n\nTools: R, tidymodels, feature engineering, model tuning\nOutput: scripts, results tracking, and reproducible reporting\n\nView on GitHub\n\n\n\n\n\n\nCorporate Finance EDA (ETC5521 Project Part 1)\nExploratory data analysis on firm-level financial data, focusing on data quality, cleaning, and insightful summaries for business decision-making.\n\nTools: R, tidyverse, EDA workflows, reporting\nFocus: structured exploration + clear communication\n\nView on GitHub\n\n\n\n\n\n\nCreating a Blog with Quarto (ETC5523 Assignment 3)\nA Quarto website/blog project demonstrating content structure, site navigation, and publishing workflows.\n\nTools: Quarto, RStudio, Git/GitHub\nFocus: building a clean static website and rendering/publishing\n\nView on GitHub\n\n\n\n\n\n\nData Analysis & Reporting (ETC5513 Assignment 1)\nAn analysis/reporting project showcasing practical data work: cleaning, summarising, and presenting results clearly.\n\nTools: R, tidyverse, Quarto reporting\nFocus: clean analysis + communication\n\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#more-links",
+    "href": "projects.html#more-links",
+    "title": "Projects",
+    "section": "More links",
+    "text": "More links\n\nGitHub: https://github.com/dulith4\n\nLinkedIn: (add link here)"
   }
 ]

@@ -1,11 +1,86 @@
 ---
 title: "Projects"
+page-layout: full
+toc: false
 ---
 
-## Coming soon
+Here are a few selected projects that show my work in **data analysis, reproducible reporting, and practical problem solving**.
 
-I’m currently curating my best projects for this page.
+::: {.callout-note}
+If you’d like a walkthrough of any project (what I did, what I learned, and what I’d improve), feel free to email me.
+:::
 
-In the meantime, you can find my work here:
-- GitHub: https://github.com/dulith4
+---
+
+## Featured projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Fish Hydroacoustics Classification (ETC5543)
+
+A machine learning project to classify fish species (e.g., lake trout vs smallmouth bass) using wideband hydroacoustic frequency features, with a focus on **reproducible pipelines** and **model evaluation**.
+
+- Tools: R, tidymodels, feature engineering, model tuning
+- Output: scripts, results tracking, and reproducible reporting
+
+[View on GitHub](https://github.com/dulith4/ETC5543-Fish-Hydroacoustics){.btn .btn-primary}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Corporate Finance EDA (ETC5521 Project Part 1)
+
+Exploratory data analysis on firm-level financial data, focusing on **data quality**, **cleaning**, and **insightful summaries** for business decision-making.
+
+- Tools: R, tidyverse, EDA workflows, reporting
+- Focus: structured exploration + clear communication
+
+[View on GitHub](https://github.com/etc5521-2025/project-part-1-mantaray){.btn .btn-primary}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Creating a Blog with Quarto (ETC5523 Assignment 3)
+
+A Quarto website/blog project demonstrating **content structure**, **site navigation**, and publishing workflows.
+
+- Tools: Quarto, RStudio, Git/GitHub
+- Focus: building a clean static website and rendering/publishing
+
+[View on GitHub](https://github.com/ETC5523-2024/assignment-3-v2-creating-a-blog-dulith4){.btn .btn-primary}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Data Analysis & Reporting (ETC5513 Assignment 1)
+
+An analysis/reporting project showcasing practical data work: **cleaning, summarising, and presenting results clearly**.
+
+- Tools: R, tidyverse, Quarto reporting
+- Focus: clean analysis + communication
+
+[View on GitHub](https://github.com/ETC5513-2024/etc5513-assignment-1-dulith4){.btn .btn-primary}
+:::
+:::
+:::
+
+:::
+
+---
+
+## More links
+
+- GitHub: https://github.com/dulith4  
 - LinkedIn: (add link here)
