@@ -1,3 +1,56 @@
 ---
-title: "contact"
+title: "Contact"
+page-layout: full
+toc: false
 ---
+
+If you'd like to get in touch about opportunities in **operations, logistics, procurement support, or business coordination**, feel free to contact me.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Email
+📧 **duli199982@gmail.com**  
+[Send an email](mailto:duli199982@gmail.com){.btn .btn-primary}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### LinkedIn
+🔗 **Dulitha Perera**  
+[View LinkedIn](https://www.linkedin.com/in/dulitha-perera-13b1a8200){.btn .btn-primary}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### GitHub
+💻 **dulith4**  
+[View GitHub](https://github.com/dulith4){.btn .btn-outline-secondary}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+::: {.card-body}
+### Location
+📍 Melbourne (Clayton), Australia
+:::
+:::
+:::
+
+:::
+
+---
+
+::: {.callout-note}
+I’m happy to chat about roles where I can contribute through reliable execution, teamwork, and continuous learning.
+:::
