@@ -7,11 +7,18 @@
     "text": "Here are a few selected projects that show my work in data analysis, reproducible reporting, and practical problem solving."
   },
   {
-    "objectID": "projects.html#coming-soon",
-    "href": "projects.html#coming-soon",
+    "objectID": "projects.html#featured-projects",
+    "href": "projects.html#featured-projects",
     "title": "Projects",
-    "section": "",
-    "text": "I’m currently curating my best projects for this page.\nIn the meantime, you can find my work here: - GitHub: https://github.com/dulith4 - LinkedIn: (add link here)"
+    "section": "Featured projects",
+    "text": "Featured projects\n\n\n\n\nFish Hydroacoustics Classification (ETC5543)\nA machine learning project to classify fish species (e.g., lake trout vs smallmouth bass) using wideband hydroacoustic frequency features, with a focus on reproducible pipelines and model evaluation.\n\nTools: R, tidymodels, feature engineering, model tuning\nOutput: scripts, results tracking, and reproducible reporting\n\nView on GitHub\n\n\n\n\n\n\nCorporate Finance EDA (ETC5521 Project Part 1)\nExploratory data analysis on firm-level financial data, focusing on data quality, cleaning, and insightful summaries for business decision-making.\n\nTools: R, tidyverse, EDA workflows, reporting\nFocus: structured exploration + clear communication\n\nView on GitHub\n\n\n\n\n\n\nCreating a Blog with Quarto (ETC5523 Assignment 3)\nA Quarto website/blog project demonstrating content structure, site navigation, and publishing workflows.\n\nTools: Quarto, RStudio, Git/GitHub\nFocus: building a clean static website and rendering/publishing\n\nView on GitHub\n\n\n\n\n\n\nData Analysis & Reporting (ETC5513 Assignment 1)\nAn analysis/reporting project showcasing practical data work: cleaning, summarising, and presenting results clearly.\n\nTools: R, tidyverse, Quarto reporting\nFocus: clean analysis + communication\n\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#more-links",
+    "href": "projects.html#more-links",
+    "title": "Projects",
+    "section": "More links",
+    "text": "More links\n\nGitHub: https://github.com/dulith4\n\nLinkedIn: (add link here)"
   },
   {
     "objectID": "cv.html",
@@ -21,11 +28,39 @@
     "text": "Here is my current CV. You can download it or view it directly on this page.\nDownload CV (PDF)"
   },
   {
+    "objectID": "cv.html#view-cv",
+    "href": "cv.html#view-cv",
+    "title": "CV",
+    "section": "View CV",
+    "text": "View CV\n\n\n\n\n\n\n\n\nNote\n\n\n\nIf the PDF doesn’t load in your browser, please use the Download CV button above."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you’d like to get in touch about opportunities in operations, logistics, procurement support, or business coordination, feel free to contact me.\n\n\n\n\nEmail\n📧 duli199982@gmail.com\nSend an email\n\n\n\n\n\n\nLinkedIn\n🔗 Dulitha Perera\nView LinkedIn\n\n\n\n\n\n\nGitHub\n💻 dulith4\nView GitHub\n\n\n\n\n\n\nLocation\n📍 Melbourne (Clayton), Australia\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nI’m happy to chat about roles where I can contribute through reliable execution, teamwork, and continuous learning."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Dulitha Perera",
     "section": "",
     "text": "Early-career business professional with hands-on experience in operations, logistics coordination, and accounting support, currently completing a Master of Business Analytics at Monash University.\n\nI’m seeking graduate / entry-level opportunities in operations, logistics, supply chain support, procurement support, finance operations, and business coordination — roles where I can contribute through strong teamwork, reliability, and a practical, get-things-done mindset.\nEmail me   GitHub"
+  },
+  {
+    "objectID": "index.html#snapshot",
+    "href": "index.html#snapshot",
+    "title": "Dulitha Perera",
+    "section": "Snapshot",
+    "text": "Snapshot\n\n\n\n\nFocus\nOperations • Logistics • Supply chain support • Procurement support\n\n\n\n\n\n\nStrengths\nTeamwork • Time management • Reliable delivery • Continuous learning\n\n\n\n\n\n\nTools\nR/RStudio • Quarto • Git/GitHub • Excel (basic)"
+  },
+  {
+    "objectID": "index.html#what-you-can-expect-from-me",
+    "href": "index.html#what-you-can-expect-from-me",
+    "title": "Dulitha Perera",
+    "section": "What you can expect from me",
+    "text": "What you can expect from me\n\n\n\n\n\n\nNote\n\n\n\nDependable execution • Strong time management • Team-focused mindset • Committed to learning fast and improving continuously"
   },
   {
     "objectID": "index.html#what-i-bring",
@@ -35,11 +70,11 @@
     "text": "What I bring\n\n\n\n\nOperations support\n\nTracking schedules and monitoring output\n\nCoordinating deliveries and day-to-day workflow\n\nSupporting teams to meet deadlines and quality requirements\n\n\n\n\n\n\n\n\nFinance operations basics\n\nProcessing supplier invoices and supporting payment cycles\n\nMaintaining accounting records (receipts, reconciliation logs)\n\nSupporting accurate record-keeping and follow-ups"
   },
   {
-    "objectID": "index.html#experience-snapshot",
-    "href": "index.html#experience-snapshot",
-    "title": "Majuwana Gamage Don Dulitha Perera",
-    "section": "Experience snapshot",
-    "text": "Experience snapshot\n\nAccount & Production Junior Executive (Trainee) — K.W.O Printing Needs (Pvt) Ltd\n\nProcessed supplier invoices and supported payment cycles\n\nMaintained accounting records (receipts, reconciliation logs)\n\nMonitored daily production schedules and supported timely output tracking\n\nCoordinated material deliveries and liaised with logistics vendors\n\nWorked with internal teams to improve coordination and workflow"
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Dulitha Perera",
+    "section": "Experience",
+    "text": "Experience\n\n\nAccount & Production Junior Executive (Trainee) — K.W.O Printing Needs (Pvt) Ltd\n\nProcessed supplier invoices and supported payment cycles\n\nMaintained accounting records (receipts, reconciliation logs)\n\nMonitored daily production schedules and supported timely output tracking\n\nCoordinated material deliveries and liaised with logistics vendors\n\nWorked with internal teams to improve coordination and workflow"
   },
   {
     "objectID": "index.html#education",
@@ -61,54 +96,5 @@
     "title": "Dulitha Perera",
     "section": "Next steps",
     "text": "Next steps\n\n\n\nVisit Projects (coming soon) for curated work examples\n\nDownload my CV (coming soon)\n\nReach out if you’d like to chat about operations / logistics / business support roles\n\nEmail: duli199982@gmail.com\nLocation: Melbourne (Clayton), Australia"
-  },
-  {
-    "objectID": "index.html#snapshot",
-    "href": "index.html#snapshot",
-    "title": "Dulitha Perera",
-    "section": "Snapshot",
-    "text": "Snapshot\n\n\n\n\nFocus\nOperations • Logistics • Supply chain support • Procurement support\n\n\n\n\n\n\nStrengths\nTeamwork • Time management • Reliable delivery • Continuous learning\n\n\n\n\n\n\nTools\nR/RStudio • Quarto • Git/GitHub • Excel (basic)"
-  },
-  {
-    "objectID": "index.html#what-you-can-expect-from-me",
-    "href": "index.html#what-you-can-expect-from-me",
-    "title": "Dulitha Perera",
-    "section": "What you can expect from me",
-    "text": "What you can expect from me\n\n\n\n\n\n\nNote\n\n\n\nDependable execution • Strong time management • Team-focused mindset • Committed to learning fast and improving continuously"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Dulitha Perera",
-    "section": "Experience",
-    "text": "Experience\n\n\nAccount & Production Junior Executive (Trainee) — K.W.O Printing Needs (Pvt) Ltd\n\nProcessed supplier invoices and supported payment cycles\n\nMaintained accounting records (receipts, reconciliation logs)\n\nMonitored daily production schedules and supported timely output tracking\n\nCoordinated material deliveries and liaised with logistics vendors\n\nWorked with internal teams to improve coordination and workflow"
-  },
-  {
-    "objectID": "projects.html#featured-projects",
-    "href": "projects.html#featured-projects",
-    "title": "Projects",
-    "section": "Featured projects",
-    "text": "Featured projects\n\n\n\n\nFish Hydroacoustics Classification (ETC5543)\nA machine learning project to classify fish species (e.g., lake trout vs smallmouth bass) using wideband hydroacoustic frequency features, with a focus on reproducible pipelines and model evaluation.\n\nTools: R, tidymodels, feature engineering, model tuning\nOutput: scripts, results tracking, and reproducible reporting\n\nView on GitHub\n\n\n\n\n\n\nCorporate Finance EDA (ETC5521 Project Part 1)\nExploratory data analysis on firm-level financial data, focusing on data quality, cleaning, and insightful summaries for business decision-making.\n\nTools: R, tidyverse, EDA workflows, reporting\nFocus: structured exploration + clear communication\n\nView on GitHub\n\n\n\n\n\n\nCreating a Blog with Quarto (ETC5523 Assignment 3)\nA Quarto website/blog project demonstrating content structure, site navigation, and publishing workflows.\n\nTools: Quarto, RStudio, Git/GitHub\nFocus: building a clean static website and rendering/publishing\n\nView on GitHub\n\n\n\n\n\n\nData Analysis & Reporting (ETC5513 Assignment 1)\nAn analysis/reporting project showcasing practical data work: cleaning, summarising, and presenting results clearly.\n\nTools: R, tidyverse, Quarto reporting\nFocus: clean analysis + communication\n\nView on GitHub"
-  },
-  {
-    "objectID": "projects.html#more-links",
-    "href": "projects.html#more-links",
-    "title": "Projects",
-    "section": "More links",
-    "text": "More links\n\nGitHub: https://github.com/dulith4\n\nLinkedIn: (add link here)"
-  },
-  {
-    "objectID": "cv.html#view-cv",
-    "href": "cv.html#view-cv",
-    "title": "CV",
-    "section": "View CV",
-    "text": "View CV\n\n\n\n\n\n\n\n\nNote\n\n\n\nIf the PDF doesn’t load in your browser, please use the Download CV button above."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "If you’d like to get in touch about opportunities in operations, logistics, procurement support, or business coordination, feel free to contact me.\n\n\n\n\nEmail\n📧 duli199982@gmail.com\nSend an email\n\n\n\n\n\n\nLinkedIn\n🔗 Dulitha Perera\nView LinkedIn\n\n\n\n\n\n\nGitHub\n💻 dulith4\nView GitHub\n\n\n\n\n\n\nLocation\n📍 Melbourne (Clayton), Australia\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nI’m happy to chat about roles where I can contribute through reliable execution, teamwork, and continuous learning."
   }
 ]
