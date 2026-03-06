@@ -82,5 +82,5 @@ An analysis/reporting project showcasing practical data work: **cleaning, summar
 
 ## More links
 
-- GitHub: https://github.com/dulith4[dulith4]{.btn .btn-outline-secondary}]
-- LinkedIn: https://www.linkedin.com/in/dulitha-perera-13b1a8200 [Dulitha Perera]{.btn .btn-primary}]
+- GitHub: [dulith4](https://github.com/dulith4)
+- LinkedIn: [Dulitha Perera](https://www.linkedin.com/in/dulitha-perera-13b1a8200)
