@@ -14,7 +14,31 @@ Early-career business professional with hands-on experience in **operations, log
 
 I’m seeking **graduate / entry-level opportunities** in **operations, logistics, supply chain support, procurement support, finance operations, and business coordination** — roles where I can contribute through strong teamwork, reliability, and a practical, get-things-done mindset.
 
-[Email me](mailto:duli199982@gmail.com){.btn .btn-primary} &nbsp;
+<button class="btn btn-primary" type="button" onclick="copyEmailTop()">
+  Copy email
+</button>
+&nbsp;
+[GitHub](https://github.com/dulith4){.btn .btn-outline-secondary}
+
+<script>
+  function copyEmailTop() {
+    const email = "duli199982@gmail.com";
+    navigator.clipboard.writeText(email).then(() => {
+      const btn = document.querySelector('button[onclick="copyEmailTop()"]');
+      const old = btn.innerText;
+      btn.innerText = "Copied!";
+      setTimeout(() => btn.innerText = old, 1200);
+    }).catch(() => {
+      const temp = document.createElement("textarea");
+      temp.value = email;
+      document.body.appendChild(temp);
+      temp.select();
+      document.execCommand("copy");
+      document.body.removeChild(temp);
+      alert("Email copied: " + email);
+    });
+  }
+</script>
 [GitHub](https://github.com/dulith4){.btn .btn-outline-secondary}
 :::
 
