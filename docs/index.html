@@ -135,29 +135,58 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <p>I’m seeking <strong>graduate / entry-level opportunities</strong> in <strong>operations, logistics, supply chain support, procurement support, finance operations, and business coordination</strong> — roles where I can contribute through strong teamwork, reliability, and a practical, get-things-done mindset.</p>
 <button class="btn btn-primary" type="button" onclick="copyEmailTop()">
-Copy email
+Email to
 </button>
-<p>&nbsp; <a href="https://github.com/dulith4" class="btn btn-outline-secondary">GitHub</a></p>
+<p>&nbsp; <a class="btn btn-outline-secondary" href="https://github.com/dulith4" target="_blank" rel="noopener"> GitHub </a></p>
+<!-- Toast message -->
+<div id="copy-toast" style="
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(17, 24, 39, 0.95);
+  color: white;
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease-in-out;
+  z-index: 9999;
+">
+<p>Copied to clipboard</p>
+</div>
 <script>
+  function showToast() {
+    const toast = document.getElementById("copy-toast");
+    toast.style.opacity = "1";
+    clearTimeout(window.__toastTimer);
+    window.__toastTimer = setTimeout(() => {
+      toast.style.opacity = "0";
+    }, 1200);
+  }
+
   function copyEmailTop() {
     const email = "duli199982@gmail.com";
-    navigator.clipboard.writeText(email).then(() => {
-      const btn = document.querySelector('button[onclick="copyEmailTop()"]');
-      const old = btn.innerText;
-      btn.innerText = "Copied!";
-      setTimeout(() => btn.innerText = old, 1200);
-    }).catch(() => {
+
+    if (navigator.clipboard && window.isSecureContext) {
+      navigator.clipboard.writeText(email).then(showToast).catch(fallbackCopy);
+    } else {
+      fallbackCopy();
+    }
+
+    function fallbackCopy() {
       const temp = document.createElement("textarea");
       temp.value = email;
       document.body.appendChild(temp);
       temp.select();
       document.execCommand("copy");
       document.body.removeChild(temp);
-      alert("Email copied: " + email);
-    });
+      showToast();
+    }
   }
 </script>
-<p><a href="https://github.com/dulith4" class="btn btn-outline-secondary">GitHub</a></p>
 </section>
 <div class="g-col-12 g-col-md-5">
 <p><img src="img/headshot.jpg" class="img-fluid" style="border-radius: 18px; width: 100%; max-width: 340px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);" alt="Headshot photo"></p>
