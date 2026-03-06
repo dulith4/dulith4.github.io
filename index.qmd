@@ -157,13 +157,17 @@ R/RStudio • Quarto • Git/GitHub • Excel (basic)
 
 ---
 
-## Next steps
+---
+
+## Explore
 
 ::: {.card}
 ::: {.card-body}
-- Visit **Projects** (coming soon) for curated work examples  
-- Download my **CV** (coming soon)  
-- Reach out if you’d like to chat about **operations / logistics / business support roles**
+- View my selected work on the **[Projects](projects.qmd)** page  
+- Download or view my **[CV](cv.qmd)**  
+- Get in touch via the **[Contact](contact.qmd)** page (or email: [duli199982@gmail.com](mailto:duli199982@gmail.com))
+:::
+:::
 
 **Email:** duli199982@gmail.com  
 **Location:** Melbourne (Clayton), Australia  

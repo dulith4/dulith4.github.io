@@ -12,8 +12,39 @@ If you'd like to get in touch about opportunities in **operations, logistics, pr
 ::: {.card}
 ::: {.card-body}
 ### Email
-📧 **duli199982@gmail.com**  
-[Send an email](mailto:duli199982@gmail.com){.btn .btn-primary}
+📧 <span id="email-text"><strong>duli199982@gmail.com</strong></span><br>
+
+<button class="btn btn-primary" type="button" onclick="copyEmail()">
+  Copy email
+</button>
+&nbsp;
+<a class="btn btn-outline-secondary" href="mailto:duli199982@gmail.com">
+  Send an email
+</a>
+
+<script>
+  function copyEmail() {
+    const email = "duli199982@gmail.com";
+    navigator.clipboard.writeText(email).then(() => {
+      // optional: quick feedback
+      const btns = document.querySelectorAll('button[onclick="copyEmail()"]');
+      btns.forEach(b => {
+        const old = b.innerText;
+        b.innerText = "Copied!";
+        setTimeout(() => b.innerText = old, 1200);
+      });
+    }).catch(() => {
+      // fallback for older browsers
+      const temp = document.createElement("textarea");
+      temp.value = email;
+      document.body.appendChild(temp);
+      temp.select();
+      document.execCommand("copy");
+      document.body.removeChild(temp);
+      alert("Email copied: " + email);
+    });
+  }
+</script>
 :::
 :::
 :::

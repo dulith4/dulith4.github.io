@@ -149,8 +149,34 @@ ul.task-list li input[type="checkbox"] {
 <div class="card">
 <section id="email" class="level3 card-body">
 <h3 class="anchored" data-anchor-id="email">Email</h3>
-<p>📧 <strong>duli199982@gmail.com</strong><br>
-<a href="mailto:duli199982@gmail.com" class="btn btn-primary">Send an email</a></p>
+<p>📧 <span id="email-text"><strong>duli199982@gmail.com</strong></span><br></p>
+<button class="btn btn-primary" type="button" onclick="copyEmail()">
+Copy email
+</button>
+<p>&nbsp; <a class="btn btn-outline-secondary" href="mailto:duli199982@gmail.com"> Send an email </a></p>
+<script>
+  function copyEmail() {
+    const email = "duli199982@gmail.com";
+    navigator.clipboard.writeText(email).then(() => {
+      // optional: quick feedback
+      const btns = document.querySelectorAll('button[onclick="copyEmail()"]');
+      btns.forEach(b => {
+        const old = b.innerText;
+        b.innerText = "Copied!";
+        setTimeout(() => b.innerText = old, 1200);
+      });
+    }).catch(() => {
+      // fallback for older browsers
+      const temp = document.createElement("textarea");
+      temp.value = email;
+      document.body.appendChild(temp);
+      temp.select();
+      document.execCommand("copy");
+      document.body.removeChild(temp);
+      alert("Email copied: " + email);
+    });
+  }
+</script>
 </section>
 </div>
 </div>
