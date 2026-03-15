@@ -14,34 +14,15 @@ Early-career business professional with hands-on experience in **operations, log
 
 I’m seeking **graduate / entry-level opportunities** in **operations, logistics, supply chain support, procurement support, finance operations, and business coordination** — roles where I can contribute through strong teamwork, reliability, and a practical, get-things-done mindset.
 
-<button class="btn btn-primary" type="button" onclick="copyEmailTop()">
-  Email to
-</button>
-&nbsp;
-<a class="btn btn-outline-secondary" href="https://github.com/dulith4" target="_blank" rel="noopener">
-  GitHub
-</a>
+<div class="hero-actions">
+  <button class="btn btn-primary" type="button" onclick="copyEmailTop()">
+    Email to
+  </button>
 
-<!-- Toast message -->
-<div id="copy-toast" style="
-  position: fixed;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: rgba(17, 24, 39, 0.95);
-  color: white;
-  padding: 10px 14px;
-  border-radius: 999px;
-  font-size: 14px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.2s ease-in-out;
-  z-index: 9999;
-">
-  Copied to clipboard
+  <a class="btn btn-outline-secondary" href="https://github.com/dulith4" target="_blank" rel="noopener">
+    GitHub
+  </a>
 </div>
-
 <script>
   function showToast() {
     const toast = document.getElementById("copy-toast");
@@ -218,11 +199,13 @@ R/RStudio • Quarto • Git/GitHub • Excel (basic)
 
 ## Explore
 
+## Explore
+
 ::: {.card}
 ::: {.card-body}
 - View my selected work on the **[Projects](projects.qmd)** page  
 - Download or view my **[CV](cv.qmd)**  
-- Get in touch via the **[Contact](contact.qmd)** page (or email: [duli199982@gmail.com](mailto:duli199982@gmail.com))
+- Get in touch via the **[Contact](contact.qmd)** page
 
 **Email:** duli199982@gmail.com  
 **Location:** Melbourne (Clayton), Australia  
