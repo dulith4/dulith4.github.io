@@ -23,6 +23,26 @@ I’m seeking **graduate / entry-level opportunities** in **operations, logistic
     GitHub
   </a>
 </div>
+
+<div id="copy-toast" style="
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(17, 24, 39, 0.95);
+  color: white;
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease-in-out;
+  z-index: 9999;
+">
+  Copied to clipboard
+</div>
+
 <script>
   function showToast() {
     const toast = document.getElementById("copy-toast");
@@ -196,8 +216,6 @@ R/RStudio • Quarto • Git/GitHub • Excel (basic)
 
 ---
 
-
-## Explore
 
 ## Explore
 

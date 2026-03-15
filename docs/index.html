@@ -138,6 +138,24 @@ ul.task-list li input[type="checkbox"] {
 <p><button class="btn btn-primary" type="button" onclick="copyEmailTop()"> Email to </button></p>
 <p><a class="btn btn-outline-secondary" href="https://github.com/dulith4" target="_blank" rel="noopener"> GitHub </a></p>
 </div>
+<div id="copy-toast" style="
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(17, 24, 39, 0.95);
+  color: white;
+  padding: 10px 14px;
+  border-radius: 999px;
+  font-size: 14px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease-in-out;
+  z-index: 9999;
+">
+<p>Copied to clipboard</p>
+</div>
 <script>
   function showToast() {
     const toast = document.getElementById("copy-toast");
@@ -333,9 +351,6 @@ Note
 </section>
 <section id="explore" class="level2">
 <h2 class="anchored" data-anchor-id="explore">Explore</h2>
-</section>
-<section id="explore-1" class="level2">
-<h2 class="anchored" data-anchor-id="explore-1">Explore</h2>
 <div class="card">
 <div class="card-body">
 <ul>
