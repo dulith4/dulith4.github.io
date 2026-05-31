@@ -9,10 +9,11 @@ page-layout: full
 # Dulitha Perera
 
 ::: {.lead}
-Early-career business professional with hands-on experience in **operations, logistics coordination, and accounting support**, currently completing a **Master of Business Analytics at Monash University**.
+Early-career business professional with a **Master of Business Analytics from Monash University** and hands-on experience in **operations support, logistics coordination, production coordination, accounting support, and supplier-related administration**.
+
 :::
 
-I’m seeking **graduate / entry-level opportunities** in **operations, logistics, supply chain support, procurement support, finance operations, and business coordination** — roles where I can contribute through strong teamwork, reliability, and a practical, get-things-done mindset.
+I’m seeking **graduate / entry-level opportunities** in **supply chain, logistics, procurement support, inventory coordination, operations support, and business administration** — roles where I can contribute through reliability, teamwork, attention to detail, and a practical, get-things-done mindset.
 
 <div class="hero-actions">
   <button class="btn btn-primary" type="button" onclick="copyEmailTop()">
@@ -109,7 +110,7 @@ Teamwork • Time management • Reliable delivery • Continuous learning
 ::: {.card}
 ::: {.card-body}
 ### Tools
-R/RStudio • Quarto • Git/GitHub • Excel (basic)
+Excel • R/RStudio • Quarto • Git/GitHub • MS Word • PowerPoint
 :::
 :::
 :::
@@ -133,10 +134,10 @@ R/RStudio • Quarto • Git/GitHub • Excel (basic)
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card}
 ::: {.card-body}
-### Operations support
-- Tracking schedules and monitoring output  
-- Coordinating deliveries and day-to-day workflow  
-- Supporting teams to meet deadlines and quality requirements  
+### Supply chain & operations support
+- Supporting production schedules and day-to-day workflow  
+- Coordinating material deliveries and logistics communication  
+- Helping teams meet deadlines, quality expectations, and operational priorities  
 :::
 :::
 :::
@@ -144,10 +145,10 @@ R/RStudio • Quarto • Git/GitHub • Excel (basic)
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card}
 ::: {.card-body}
-### Finance operations basics
+### Finance & administration support
 - Processing supplier invoices and supporting payment cycles  
-- Maintaining accounting records (receipts, reconciliation logs)  
-- Supporting accurate record-keeping and follow-ups  
+- Maintaining receipts, reconciliation logs, and accounting records  
+- Supporting accurate documentation, follow-ups, and internal coordination  
 :::
 :::
 :::
@@ -170,13 +171,27 @@ R/RStudio • Quarto • Git/GitHub • Excel (basic)
 :::
 :::
 
+::: {.card}
+::: {.card-body}
+### Volunteer — Australian Red Cross
+
+- Supporting Red Cross activities and community service operations  
+- Working collaboratively with team members and supervisors  
+- Following organisational procedures, safety expectations, and volunteer guidelines  
+- Communicating respectfully with diverse people in a community-focused environment  
+- Building local Australian workplace exposure, confidence, and professional readiness  
+:::
+:::
+
 ---
 
 ## Education
 
 ::: {.card}
 ::: {.card-body}
-- **Master of Business Analytics** — Monash University (Feb 2024 – Present)  
+- **Master of Business Analytics** — Monash University (Feb 2024 – 2026)
+- **Understanding Global Supply Chains** — Airbus / Coursera  
+  Completed as part of the Airbus Supply Chain Specialist Professional Certificate pathway
 - **BSc Business Management (Upper Second Class)** — Canterbury Christchurch University (UK) (Sep 2020 – Sep 2021)  
 - **HND Business Management** — Saegis Campus (Oct 2018 – Mar 2020)  
 :::
@@ -192,9 +207,11 @@ R/RStudio • Quarto • Git/GitHub • Excel (basic)
 ::: {.card}
 ::: {.card-body}
 ### Tools
-- R / RStudio (practical reporting & analysis)  
-- MS Word & PowerPoint  
-- Excel (basic)  
+- Excel — formulas, sorting/filtering, pivot tables, and basic reporting  
+- R / RStudio — practical reporting and analysis  
+- Quarto — report and website development  
+- Git / GitHub — version control and project publishing  
+- MS Word & PowerPoint   
 :::
 :::
 :::
@@ -203,9 +220,11 @@ R/RStudio • Quarto • Git/GitHub • Excel (basic)
 ::: {.card}
 ::: {.card-body}
 ### Professional
-- Teamwork & communication  
-- Time management & commitment  
-- Reliable delivery under deadlines  
+- Teamwork and clear communication  
+- Time management and reliability  
+- Attention to detail  
+- Willingness to learn systems and processes quickly  
+- Practical problem-solving in operational environments  
 :::
 :::
 :::
