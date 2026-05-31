@@ -76,7 +76,7 @@ I’m seeking **graduate / entry-level opportunities** in **operations, logistic
 :::
 
 ::: {.g-col-12 .g-col-md-5}
-![](img/headshot.jpg){fig-alt="Headshot photo" style="border-radius: 18px; width: 100%; max-width: 340px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);"}
+![](img/headshot.jpeg){fig-alt="Headshot photo" style="border-radius: 18px; width: 100%; max-width: 340px; box-shadow: 0 10px 25px rgba(0,0,0,0.08);"}
 :::
 
 :::
